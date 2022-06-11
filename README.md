@@ -11,7 +11,7 @@
   <a href="https://github.com/patrickylopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickylopes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> <br> <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickylopes&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+<div>
   
   
   <div style="display: inline_block"><br>
@@ -22,10 +22,10 @@
   
   <br><br>
     
-  <div>
+  <div
       <a href="https://www.youtube.com/channel/UCP94a17ChYrovkgGNNTTPxg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/patrickylopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
       <a href = "mailto:patricklopesjp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/patricklopes27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://api.whatsapp.com/send?phone=5519996617713" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  </div>
+  <div>
