@@ -5,7 +5,11 @@
 
 - ✌️Hi there!⚜️ <br>
 
-- 🌱 I’m currently learning software development 💻⌨️ <br>
+- 🌱 I’m currently learning software development... 💻⌨️ <br>
+
+- 👨‍💻 HTML, CSS... ✅ <br>
+
+- 👨‍ Java Script...⌛<br>
 
 <div align="center">
   <a href="https://github.com/patrickylopes">
